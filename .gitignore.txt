@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Data files (Good practice to not upload large CSVs)
+*.csv
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
